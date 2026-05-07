@@ -1,5 +1,7 @@
-# CLV Segmentation Engine — FMCG D2C Brand
-### Business Analyst Portfolio Project · End-to-End Requirements & Analytics Deliverable
+End-to-end CLV Segmentation Engine for FMCG D2C brands · RFM scoring + BG/NBD CLV prediction + K-Means clustering · Python · Power BI · BRD · FRD · RTM# CLV Segmentation Engine — FMCG D2C Brand
+
+
+### End-to-End Requirements & Analytics Deliverable
 
 > **Domain:** FMCG / D2C Personal Care | **Role modelled:** Business Analyst / Product Owner  
 > **Stack:** Python 3.10+ · Pandas · Lifetimes (BG/NBD) · Scikit-learn · Power BI  
